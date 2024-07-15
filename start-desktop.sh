@@ -1,0 +1,1 @@
+cd desktop/ && cargo tauri dev
